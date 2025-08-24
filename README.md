@@ -60,3 +60,7 @@
 
 
 ###
+
+<img src="https://raw.githubusercontent.com/AlannaFM/AlannaFM/output/snake.svg" alt="Snake animation" />
+
+###
