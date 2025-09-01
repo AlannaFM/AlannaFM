@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Oi! Meu nome é Alanna Machado, e sou estudante de Engenharia de Software na Universidade Católica do Salvador. Atualmente estudo java, mas estou sempre disposta a adquirir  novos conhecimentos e buscar evoluir minhas habilidades.</p>
+<p align="left">Olá! Meu nome é Alanna Machado e sou estudante de Engenharia de Software na Universidade Católica do Salvador. Atualmente estudo Java e React, mas estou sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades.</p>
 
 ###
 
